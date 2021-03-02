@@ -4,28 +4,26 @@
 /*===== VARIABLES CSS =====*/
 :root{
     --header-height: 3rem;
-}
-/*===== Colores =====*/
-:root{
+    
+    /*===== Colores =====*/
     --first-color: #3664F4;
     --dark-color: #070D1F;
     --dark-color-alt: #282B3A;
     --white-color: #E6E7E9;
-}
-/*===== Fuente y tipografia =====*/
-:root{
+
+    /*===== Fuente y tipografia =====*/
     --body-font: 'Poppins', sans-serif;
     --normal-font-size: .938rem;
     --small-font-size: .813rem;
 
+    /*===== z index =====*/
+    --z-fixed: 100;
+}
+:root{
     @media screen and (min-width: 768px){
         --normal-font-size: 1rem;
         --small-font-size: .875rem;
     }
-}
-/*===== z index =====*/
-:root{
-    --z-fixed: 100;
 }
 
 /*===== BASE =====*/
