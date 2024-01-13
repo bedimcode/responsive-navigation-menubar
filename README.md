@@ -1,7 +1,12 @@
-# Responsive Navigation Menubar
+# Responsive Navigation Menu Bar
 ## [Watch it on youtube](https://youtu.be/1sBYOt3d1DA)
-### Responsive Navigation Menubar
-The incredible responsive navigation bar includes a sticky header, and in the mobile version, a beautiful drop-down menu containing a profile picture, personal data, links and social media icons using html css and javascript.
+### Responsive Navigation Menu Bar
 
-Don't forget to join the channel for more videos like this.
-[Bedimcode](https://www.youtube.com/c/Bedimcode)
+- Responsive Navigation Menu Bar Using HTML CSS & JavaScript
+- Include a profile picture and social media links.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+
+![preview img](/preview.png)
